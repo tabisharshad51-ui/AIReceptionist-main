@@ -393,3 +393,13 @@ If this saved you from a $300/month SaaS subscription, consider buying me a coff
 **BTC:** `bc1q573f3x6zlsh06lcfetpmrquw5jr5e26ahu4syn`
 
 **ETH:** `0x5d48560C58b65dc7FeECa2F452c2Df817d1d61CC`
+
+---
+
+## 👨‍💻 Author
+
+### **Tabish Arshad**
+
+AI Engineer • Full-Stack Developer • AI Automation Specialist
+
+Building practical AI systems, voice agents, intelligent automation, and scalable software solutions.
